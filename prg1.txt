@@ -1,4 +1,4 @@
 hello good morning
 hi everyone
 be there soon
-this to test merge
+merge conflict
